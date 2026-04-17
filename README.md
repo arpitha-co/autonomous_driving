@@ -29,9 +29,9 @@ The Webots supervisor is used **only** to read the robot’s global position and
 
 These are the generated maps used by the planner (converted to PNG so they render in Markdown):
 
-![Occupancy map](resources/map.png)
-
-![Inflated costmap](resources/inflated_map.png)
+| Occupancy map | Inflated costmap |
+| --- | --- |
+| ![Occupancy map](resources/map.png) | ![Inflated costmap](resources/inflated_map.png) |
 
 ## Results
 
