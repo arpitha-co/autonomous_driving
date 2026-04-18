@@ -27,7 +27,7 @@ The Webots supervisor is used **only** to read the robot’s global position and
 
 ## Mapping visuals
 
-These are the generated maps used by the planner (converted to PNG so they render in Markdown):
+These are the generated maps used by the planner:
 
 | Occupancy map | Inflated costmap |
 | --- | --- |
