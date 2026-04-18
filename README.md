@@ -101,3 +101,7 @@ Important: save the file and reload the world for the displays to appear.
 [![Demo videos](resources/image.png)](https://drive.google.com/drive/folders/1wr3QS4YzxN2X6jKGdsdXy_vxPFZknrQB?usp=sharing)
 
 Direct link: https://drive.google.com/drive/folders/1wr3QS4YzxN2X6jKGdsdXy_vxPFZknrQB?usp=sharing
+
+
+**Contributors**
+- [Arpitha](https://github.com/arpitha-co) 
